@@ -1,64 +1,204 @@
-<p align="center">
-  <a href="https://github.com/ajayg10">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ajay%20Garg&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20AI%20Builder%20•%20Cloud%20Computing%20Student&descAlignY=58" />
+
+# Hi there 👋 I'm Ajay
+
+Building intelligent systems that don't just answer questions—they **plan, remember, and execute**.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Ajay Garg
+
+Role:
+  Computer Science Student
+  Cloud Computing Specialization
+
+Interests:
+  - Backend Engineering
+  - Agentic AI
+  - Full-Stack Development
+  - Distributed Systems
+  - Cloud Infrastructure
+
+Currently Building:
+  - VEDA (Agentic AI Operating System)
+
+Currently Learning:
+  - System Design
+  - Advanced DSA
+  - Cloud Native Architecture
+  - Distributed Systems
+
+Mission:
+  Build software that people actually use.
+```
+
+---
+
+# 🧠 Current Focus
+
+```text
+Designing scalable backend systems.
+
+Building AI agents.
+
+Learning system design.
+
+Shipping products instead of tutorials.
+```
+
+---
+
+# ⭐ Featured Projects
+
+## 🧠 VEDA
+
+Agentic AI Operating System
+
+- Multi-service Architecture
+- FastAPI
+- Docker
+- FAISS
+- LLM Planning Engine
+- Semantic Memory
+- GitHub Actions CI/CD
+
+> Planning • Memory • Execution • Orchestration
+
+---
+
+## 📧 Email AI Agent
+
+AI-powered email assistant
+
+- LangChain
+- Gmail API
+- OAuth 2.0
+- FastAPI
+- LLMs
+
+Automatically summarizes, categorizes and drafts contextual replies.
+
+---
+
+## 🔐 Digital Vault
+
+Secure SaaS platform
+
+- React
+- FastAPI
+- PostgreSQL
+- JWT Authentication
+- Agora SDK
+
+Secure file management with real-time collaboration.
+
+---
+
+## ✨ Celestia
+
+AI-powered Astrology SaaS
+
+- FastAPI
+- React
+- OpenAI
+- Razorpay
+- Swiss Ephemeris
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,go" />
 </p>
 
-### 🛠️ Tech Stack
+### Backend
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
-### 🔗 Connect With Me
+### Frontend
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajayg10" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/ajay.garg10" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.agdev10.online" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ajaygarg200r@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
 </p>
 
-### 📊 GitHub Stats
+### Databases
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ajayg10&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ajayg10&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 </p>
 
-### 📈 Contribution Graph
+### DevOps
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayg10&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,bash" />
 </p>
 
-### 💭 Dev Quote
+### Tools
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/ajayg10">ajayg10</a></i></p>
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayg10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayg10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ajayg10&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p>
+
+<a href="https://linkedin.com/in/ajayg10">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ajaygarg200r@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/ajayg10">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> *"The best way to learn engineering is to build things that break, understand why they broke, and build them better."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
